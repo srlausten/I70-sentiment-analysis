@@ -46,7 +46,7 @@ This script is for educational purposes and should be used in accordance with Tw
 
 ### Example Output 
 
-```bash
+```
 Tweet: Loving the clear roads on I-70 today! Smooth driving and great views.
 Sentiment: POSITIVE, Confidence: 0.9874
 
@@ -63,4 +63,4 @@ Tweet: Just took a trip along I-70. The new scenery is beautiful!
 Sentiment: POSITIVE, Confidence: 0.9821
 ```
 
-This setup gives you a straightforward way to analyze sentiment towards I-70 using Twitter data, combining API data fetching with powerful sentiment analysis capabilities.
+This setup gives you a straightforward way to analyze sentiment toward I-70 using Twitter data, combining API data fetching with powerful sentiment analysis capabilities.
