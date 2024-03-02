@@ -1,7 +1,8 @@
 # Twitter Sentiment Analysis for I-70
 
 This Python script fetches recent tweets related to Interstate 70 (I-70) and performs sentiment analysis on them, providing insights into the public sentiment regarding this highway.
-![i70](https://github.com/srlausten/I70-sentiment-analysis/assets/65357089/4c5d123d-22cf-405e-a08d-68da44242dcb)
+
+<img src="https://github.com/srlausten/I70-sentiment-analysis/assets/65357089/4c5d123d-22cf-405e-a08d-68da44242dcb" width="250">
 
 ## Prerequisites
 
